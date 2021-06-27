@@ -3,6 +3,8 @@
 //level 2 - mongoose-encryption, using env variables
 //Level 3 - Hashing Password -md5
 //Level 4 - Salting and Hashing password using bcrypt
+//Level 5 - Using session and passportjs
+//Level 6 - Oauth2.0
 require('dotenv').config();
 const express = require('express');
 const bodyParser = require('body-parser');
